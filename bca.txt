@@ -1,0 +1,10 @@
+read -p "enter your choice -> " choice
+
+
+case $choice in 
+
+
+
+1)
+    read -p "enter name:" name
+	
